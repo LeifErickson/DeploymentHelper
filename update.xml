@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!-- Increment the version for each update. -->
-<Manifest version="12">
+<Manifest version="13">
   <!-- Your application will check for updates every (seconds) -->
   <CheckInterval>900</CheckInterval>
 
