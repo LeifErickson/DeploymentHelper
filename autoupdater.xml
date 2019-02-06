@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>4.1.0.0</version>
+    <version>4.1.0.1</version>
     <url>https://raw.githubusercontent.com/LeifErickson/DeploymentHelper/master/myapp.zip</url>
-    <changelog>https://github.com</changelog>
+    <!--changelog>https://github.com</changelog-->
     <mandatory>false</mandatory>
 </item>
