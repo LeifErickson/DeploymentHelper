@@ -2,7 +2,7 @@
 <item>
     <version>4.1.0.1</version>
     <!--url>https://raw.githubusercontent.com/LeifErickson/DeploymentHelper/master/dh.zip</url-->
-    <url>https://drive.google.com/uc?authuser=0&id=1UOgHzxFxnKyKfVVSXcB24mXtzawd5-oN&export=download</url>
+    <url>https://drive.google.com/uc?authuser=0&amp;id=1UOgHzxFxnKyKfVVSXcB24mXtzawd5-oN&amp;export=download</url>
     <changelog>https://raw.githubusercontent.com/LeifErickson/DeploymentHelper/master/Changelog.md</changelog>
     <mandatory>false</mandatory>
 </item>
