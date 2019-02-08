@@ -1,0 +1,2 @@
+-Upgraded Self-Updater
+-Bug fixes

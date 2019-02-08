@@ -2,6 +2,6 @@
 <item>
     <version>4.1.0.1</version>
     <url>https://raw.githubusercontent.com/LeifErickson/DeploymentHelper/master/myapp.zip</url>
-    <!--changelog>https://github.com</changelog-->
+    <changelog>https://raw.githubusercontent.com/LeifErickson/DeploymentHelper/master/Changelog.md</changelog>
     <mandatory>false</mandatory>
 </item>
