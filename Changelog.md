@@ -1,6 +1,8 @@
 4.3.1.0
 -Retrieve metadata now working (using ForceCMD)
 -Has now 'last action preview'
+-Added option to download the latest package again (Clean install)
+-'Code cleaners' now run in a separate thread
 -UI fixes
 -Code optimizations (app now runs a little bit faster)
 
