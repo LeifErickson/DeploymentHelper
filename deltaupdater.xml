@@ -4,5 +4,5 @@
     <!--url>https://raw.githubusercontent.com/LeifErickson/DeploymentHelper/master/dh.zip</url-->
     <url>https://dl.dropboxusercontent.com/s/bho7gi3am4y0mmr/DELTA-dh.zip?dl=0</url>
     <changelog>https://raw.githubusercontent.com/LeifErickson/DeploymentHelper/master/Changelog.md</changelog>
-    <mandatory>false</mandatory>
+    <mandatory>true</mandatory>
 </item>
