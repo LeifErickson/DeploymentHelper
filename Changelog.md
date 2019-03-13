@@ -1,3 +1,7 @@
+4.3.2.0 [Hotfix]
+-Fixed bug where git push doesn't work
+-UI Fixes
+
 4.3.1.0
 -Retrieve metadata now working (using ForceCMD)
 -Has now 'last action preview'
