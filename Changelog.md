@@ -1,3 +1,7 @@
+4.3.3.0
+-Fixed bug where Open VPN does nothing
+-Fixed bug where checkout doesn't auto update the branch labels
+
 4.3.2.0 [Hotfix]
 -Fixed bug where git push doesn't work
 -UI Fixes
