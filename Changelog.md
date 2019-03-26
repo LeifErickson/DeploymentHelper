@@ -1,4 +1,4 @@
-4.3.6.0 (patch)
+4.4.0.0 [Stable Version]
 -Added delay for OpenVPN button
 
 
