@@ -1,4 +1,14 @@
-4.3.4.0
+4.3.5.0 (patch)
+-Added delay for OpenVPN button
+
+
+==== Stay tuned for more! ====
+-Leap
+
+
+Old Versions:
+
+4.3.4.0 [Hotfix]
 -Fixed fatal error during update [my bad]
 
 4.3.3.0
@@ -16,13 +26,6 @@
 -'Code cleaners' now run in a separate thread
 -UI fixes
 -Code optimizations (app now runs a little bit faster)
-
-==== Stay tuned for more! ====
--Leap
-
-
-
-Old Versions:
 
 4.2.0.0
 -Git is now integrated in the app 
