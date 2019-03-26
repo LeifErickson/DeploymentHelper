@@ -1,3 +1,6 @@
+4.3.4.0
+-Fixed fatal error during update [my bad]
+
 4.3.3.0
 -Fixed bug where Open VPN does nothing
 -Fixed bug where checkout doesn't auto update the branch labels
