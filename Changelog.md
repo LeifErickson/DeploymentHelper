@@ -1,12 +1,19 @@
-4.3.5.0 [patch]
--Added delay for OpenVPN button
+4.3.7.0 
+-Fixed Feature to QA button where feature is the initial version
+-Added "Clone a Repository" Button
+-Changed button from "open repository folder" to "open git bash"
 
 
 ==== Stay tuned for more! ====
 -Leap
 
 
+
 Old Versions:
+
+4.3.5.0 [patch]
+-Added delay for OpenVPN button
+
 
 4.3.4.0 [Hotfix]
 -Fixed fatal error during update [my bad]
