@@ -1,15 +1,43 @@
+<h1>4.3.11.0 <h1>
+	<ol>
+		<li>
+			Added a list of downloadable metadata
+		</li>
+		<li>
+			Added a functionality switch between amp vpn or the old one
+		</li>
+		<li>
+			Added a tracker functionality to which logs how many minutes the app is used
+		</li>
+		<li>
+			Added more files in clean up function to lessen even more dirty data
+		</li>
+		<li>
+			Bug fixes
+		</li>
+		<li>
+			Move some functions to run in background to reduce code execution time
+		</li>
+	</ol>
+	<br>
+<h2>
+	HAPPY 1 YEAR DEPLOYMENT HELPER
+</h2>
+<h3>
+==== Stay tuned for more! ====
+-Leap
+</h3>
+
+
+
+<p>
+Old Versions:
+
 4.3.7.0 
 -Fixed Feature to QA button where feature is the initial version
 -Added "Clone a Repository" Button
 -Changed button from "open repository folder" to "open git bash"
 
-
-==== Stay tuned for more! ====
--Leap
-
-
-
-Old Versions:
 
 4.3.5.0 [patch]
 -Added delay for OpenVPN button
@@ -45,3 +73,4 @@ Old Versions:
 -Updated Self-Updater [Semi-Release]
 -Self-Updater is using delta to reduce load [Beta]
 -Bug fixes
+</p>
