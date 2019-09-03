@@ -3,7 +3,7 @@
     <version>4.3.7.0</version>
     <!--url>https://raw.githubusercontent.com/LeifErickson/DeploymentHelper/master/dh.zip</url-->
     <url>https://dl.dropboxusercontent.com/s/bho7gi3am4y0mmr/DELTA-dh.zip?dl=0</url>
-    <changelog>https://github.com/LeifErickson/DeploymentHelper/blob/master/Changelog.md#43110</changelog>
+    <changelog>http://fiddle.jshell.net/leapouji/hryc6wxd/show/</changelog>
     <!--changelog>https://raw.githubusercontent.com/LeifErickson/DeploymentHelper/master/Changelog.md</changelog-->
     <mandatory>true</mandatory>
 </item>
