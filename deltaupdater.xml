@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>4.3.14.0</version>
+    <version>4.4.2.0</version>
     <!--url>https://raw.githubusercontent.com/LeifErickson/DeploymentHelper/master/dh.zip</url-->
     <url>https://dl.dropboxusercontent.com/s/bho7gi3am4y0mmr/DELTA-dh.zip?dl=0</url>
-    <changelog>http://fiddle.jshell.net/leapouji/7o294Lbn/show/</changelog>
+    <changelog>https://htmlpreview.github.io/?https://github.com/LeifErickson/DeploymentHelper/blob/master/Changelog.html</changelog>
     <!--changelog>https://raw.githubusercontent.com/LeifErickson/DeploymentHelper/master/Changelog.md</changelog-->
     <mandatory>true</mandatory>
 </item>
